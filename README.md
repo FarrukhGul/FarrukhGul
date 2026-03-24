@@ -1,150 +1,121 @@
-<div align="center">
+<!-- Header Section with a cool banner idea (Optional) -->
+<!-- You can use tools like Canva to create a simple banner with your name and "MERN Stack Developer" -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=200&section=header&text=Muhammad%20Farrukh%20Gul&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Lahore%2C%20Pakistan&descAlignY=58&descSize=16&animation=twinkling" />
+<h1 align="center">Hi 👋, I'm Muhammad Farrukh Gul</h1>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan, building AI-integrated web apps.</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Next.js+%7C+Tailwind+%7C+JavaScript;AI-Augmented+Developer+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
+<!-- Typing SVG - Adds a dynamic element -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9F6F&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Tooling+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=FarrukhGul&label=Profile%20Views&color=00ff88&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/FarrukhGul?label=Followers&style=flat-square&color=00ff88" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```javascript
-const farrukh = {
-  name:        "Muhammad Farrukh Gul",
-  role:        "MERN Stack Developer",
-  education:   "BS Computer Science @ University of Minhaj, Lahore (2026)",
-  brand:       "@cybercodeforge — Dev Education on Instagram",
-  currentFocus: [
-    "Building full-stack MERN applications",
-    "Teaching backend development via Instagram carousel series",
-    "Exploring Next.js & TypeScript",
-    "AI-augmented development with GitHub Copilot & Claude"
-  ],
-  openTo:      ["Internships", "Junior Dev Roles", "Freelance Projects"],
-};
-```
+<!-- Social Links with Icons - Replace with your actual links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-farrukh-gul-695126336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/cybercodeforge" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="https://www.facebook.com/share/17DzaJjyEP" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+  </a>
+  <!-- Add your portfolio link here later -->
+  <!-- <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
+  </a> -->
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-<div align="center">
+I'm a dedicated MERN stack developer focused on creating full-stack applications that solve real-world problems. I don't just write code; I leverage the power of **AI tools (like Copilot & Claude)** to enhance productivity and build smarter, more efficient solutions.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & AI
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+- 🔭 I’m currently working on **Sparrow**, an AI-powered career assistant that analyzes resumes and job descriptions to provide personalized skill gap analysis.
+- 🌱 I’m constantly learning and exploring **Next.js 16.2**, **TypeScript**, and  **AI/ML integrations**.
+- 👯 I’m looking to collaborate on open-source **MERN** or **AI-integrated** projects.
+- 💬 Ask me about **React, Node.js, Express, MongoDB, and how to effectively use AI in development.**
+- 📫 How to reach me: **mfg.pentestpilot@gmail.com**
+- ⚡ Fun fact: I believe the best code is written at night when no one listens.
 
 ---
 
-## 🚀 Projects
+### 🛠️ Tech Stack & Tools
 
-### 🎵 Musify — Music Streaming App
-> A Spotify-inspired full-stack music streaming app with authentication, song upload, album management, and real-time playback.
+<!-- This section is a visual representation of your skills. Group them logically. -->
+#### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 🌐 **Live:** [musify-vert.vercel.app](https://musify-vert.vercel.app/login)
-- **Frontend:** [Musify-App-Frontend](https://github.com/FarrukhGul/Musify-App-Frontend)
-- **Backend:** [Musify-App-Backend](https://github.com/FarrukhGul/Musify-App-Backend)
-- **Stack:** React, Node.js, Express, MongoDB, ImageKit
+#### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-### 🤖 CareerLens — AI Career Analyzer
-> Upload your resume and job description — get instant AI feedback on skill gaps, strengths, and career fit.
-
-- **Frontend:** [CareerLens-Frontend](https://github.com/FarrukhGul/CareerLens-Frontend)
-- **Backend:** [CareerLens-Backend](https://github.com/FarrukhGul/CareerLens-Backend)
-- **Stack:** React, Node.Js, Express.Js, Google Gemini API, PDF Parsing
-
----
-
-### 🚦 Traffic Accident Severity Prediction
-> Predicts road accident severity using machine learning with an interactive React frontend.
-
-- **Repo:** [Traffic-Accident-Severity-Prediction](https://github.com/FarrukhGul/Traffic-Accident-Severity-Prediction)
-- **Stack:** Python, XGBoost, Random Forest, FastAPI, React, Vite
+#### AI Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ---
 
-### ✅ Next.js Todo App
-> A clean task management app built to practice Next.js fundamentals.
+### 📈 GitHub Stats
 
-- **Repo:** [NextJS-Todo-App](https://github.com/FarrukhGul/NextJS-Todo-App)
-- **Stack:** Next.js, React, Tailwind CSS
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarrukhGul&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhGul&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhGul&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarrukhGul&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="FarrukhGul's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhGul&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhGul&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 📱 CyberCodeForge — My Dev Education Brand
+### 🏆 Featured Projects
 
-I run **[@cybercodeforge](https://www.instagram.com/cybercodeforge)** on Instagram where I break down MERN stack and backend concepts into structured visual carousels for developers.
+<!-- Pinned repositories will show here, but you can also list them for context. -->
+Here are some of my key projects that showcase my skills:
 
-- 🗓️ **Backend MERN 60-Day Series** — daily structured backend learning content
-- 🎨 Dark hacker-themed aesthetic built for developers
-- 🧠 Teaching what I build, as I build it
+1.  **[Musify - Music Streaming App](https://musify-vert.vercel.app/login)**
+    *A full-stack music application with user authentication, playlist management, and audio streaming.*
+    *   **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS.
+    *   **Live Demo:** [musify-vert.vercel.app](https://musify-vert.vercel.app/login)
+    *   **Frontend Repo:** [Musify-App-Frontend](https://github.com/FarrukhGul/Musify-App-Frontend)
+    *   **Backend Repo:** [Musify-App-Backend](https://github.com/FarrukhGul/Musify-App-Backend)
+
+2.  **CareerLens - AI Career Assistant**
+    *An AI-powered tool that analyzes a user's resume against a job description to identify skill gaps and provide actionable feedback.*
+    *   **Tech:** React.js, Node.js, Express, MongoDB, AI Integration (Google Gemini API).
+    *   **Frontend Repo:** [CareerLens-Frontend](https://github.com/FarrukhGul/CareerLens-Frontend)
+    *   **Backend Repo:** [CareerLens-Backend](https://github.com/FarrukhGul/CareerLens-Backend)
+
+3.  **[Traffic Accident Severity Prediction](https://github.com/FarrukhGul/Traffic-Accident-Severity-Prediction)**
+    *A machine learning project to predict the severity of traffic accidents based on various parameters.*
+    *   **Tech:** Python, Machine Learning (Scikit-learn, Pandas), React.js, Tailwindcss FAST-API .
+    *   **Repo:** [Traffic-Accident-Severity-Prediction](https://github.com/FarrukhGul/Traffic-Accident-Severity-Prediction)
+
+4.  **[Full Stack Next.js Todo App](https://github.com/FarrukhGul/NextJS-Todo-App)**
+    *A modern and efficient task management application built with Next.js, showcasing server-side rendering and API routes.*
+    *   **Tech:** Next.js, React, MongoDB, Node.js ,Express.js, TailwindCss.
+    *   **Repo:** [NextJS-Todo-App](https://github.com/FarrukhGul/NextJS-Todo-App)
+
+<!-- Sparrow extension here once it's pushed. -->
+
 
 ---
+<!-- This section shows you're active and engaged -->
+### 🤝 Connect with Me
 
-## 🤝 Connect With Me
-
-<div align="center">
+I'm always open to discussing new opportunities, collaborations, or just tech in general. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farrukh-gul-695126336)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybercodeforge)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17DzaJjyEP/?mibextid=wwXIfr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarrukhGul)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=120&section=footer" />
-
-*"I don't wait until I'm senior to start building. I build to get there."* ⚡
-
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17DzaJjyEP)
