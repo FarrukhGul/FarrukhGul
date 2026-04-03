@@ -112,7 +112,7 @@ Here are some of my key projects that showcase my skills:
 
 ---
 <!-- This section shows you're active and engaged -->
-### 🤝 Connect with Me
+###  Connect with Me
 
 I'm always open to discussing new opportunities, collaborations, or just tech in general. Feel free to reach out!
 
