@@ -1,121 +1,117 @@
-<!-- Header Section with a cool banner idea (Optional) -->
-<!-- You can use tools like Canva to create a simple banner with your name and "MERN Stack Developer" -->
+<h1 align="center">Hi, I'm Muhammad Farrukh Gul</h1>
 
-<h1 align="center">Hi 👋, I'm Muhammad Farrukh Gul</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan, building AI-integrated web apps.</h3>
-
-<!-- Typing SVG - Adds a dynamic element -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9F6F&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Tooling+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
-<!-- Social Links with Icons - Replace with your actual links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-farrukh-gul-695126336" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <a href="https://github.com/FarrukhGul">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9F6F&center=true&vCenter=true&width=450&lines=Full-Stack+MERN+Developer;React+Native+%2B+Node.js+%2B+MongoDB;Building+AI-integrated+applications" alt="Typing SVG" />
   </a>
-  <a href="https://www.instagram.com/cybercodeforge" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-  <a href="https://www.facebook.com/share/17DzaJjyEP" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-  </a>
-  <!-- Add your portfolio link here later -->
-  <!-- <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
-  </a> -->
 </p>
-
----
-
-### 🚀 About Me
-
-I'm a dedicated MERN stack developer focused on creating full-stack applications that solve real-world problems. I don't just write code; I leverage the power of **AI tools (like Copilot & Claude)** to enhance productivity and build smarter, more efficient solutions.
-
-- 🔭 I’m currently working on **Sparrow**, an AI-powered career assistant that analyzes resumes and job descriptions to provide personalized skill gap analysis.
-- 🌱 I’m constantly learning and exploring **Next.js 16.2**, **TypeScript**, and  **AI/ML integrations**.
-- 👯 I’m looking to collaborate on open-source **MERN** or **AI-integrated** projects.
-- 💬 Ask me about **React, Node.js, Express, MongoDB, and how to effectively use AI in development.**
-- 📫 How to reach me: **mfg.pentestpilot@gmail.com**
-- ⚡ Fun fact: I believe the best code is written at night when no one listens.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<!-- This section is a visual representation of your skills. Group them logically. -->
-#### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### AI Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarrukhGul&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="FarrukhGul's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhGul&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="48%" />
+  <a href="https://www.linkedin.com/in/muhammad-farrukh-gul-695126336">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mfg.pentestpilot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+---
+
+### About
+
+Full-stack MERN developer based in Lahore, Pakistan. I build complete applications — React and React Native on the front, Node.js and Express on the back, MongoDB underneath — with a focus on getting the details right: authentication, real-time updates, input validation, and error handling that actually works in production.
+
+- Currently building **FoodBridge AI**, a food-donation platform connecting donors with receivers — React Native, Express, MongoDB, Socket.io, with a Gemini-powered assistant streamed over SSE
+- Completed a full-stack internship at **Teyzix Core** (remote), shipping 3 web applications
+- Working with **React Native**, **Next.js**, and **Google Gemini API** integrations
+- Open to junior full-stack and MERN roles
+- Reach me at **mfg.pentestpilot@gmail.com**
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### Featured Projects
+
+**FoodBridge AI** — Food donation platform *(Final Year Project)*
+Connects food donors with receivers in real time. Donors post surplus food with location; receivers find and claim nearby donations on a map. Includes a Gemini-powered assistant that streams replies over Server-Sent Events, role-based authentication, and live updates via Socket.io.
+`React Native` `Expo` `Node.js` `Express` `MongoDB` `Socket.io` `Google Gemini API`
+[Backend repo](https://github.com/FarrukhGul/foodbridge-backend-FYP)
+
+**Musify** — Music streaming application
+Full-stack music platform with user authentication, playlist management, and audio streaming.
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+[Live demo](https://musify-vert.vercel.app/login) · [Frontend](https://github.com/FarrukhGul/Musify-App-Frontend) · [Backend](https://github.com/FarrukhGul/Musify-App-Backend)
+
+**CareerLens** — AI career assistant
+Analyses a resume against a job description to identify skill gaps and return actionable feedback.
+`React` `Node.js` `Express` `MongoDB` `Google Gemini API`
+[Frontend](https://github.com/FarrukhGul/CareerLens-Frontend) · [Backend](https://github.com/FarrukhGul/CareerLens-Backend)
+
+**Traffic Accident Severity Prediction** — Machine learning
+Predicts accident severity from road, weather, and time-of-day parameters, served through a FastAPI backend with a React interface.
+`Python` `Scikit-learn` `Pandas` `FastAPI` `React` `Tailwind CSS`
+[Repository](https://github.com/FarrukhGul/Traffic-Accident-Severity-Prediction)
+
+**Next.js Todo App** — Task management
+Task manager built with Next.js, using server-side rendering and API routes.
+`Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+[Repository](https://github.com/FarrukhGul/NextJS-Todo-App)
+
+---
+
+### GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhGul&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarrukhGul&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FarrukhGul&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhGul&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrukhGul&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/snake.svg" alt="Contribution snake" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
-
-<!-- Pinned repositories will show here, but you can also list them for context. -->
-Here are some of my key projects that showcase my skills:
-
-1.  **[Musify - Music Streaming App](https://musify-vert.vercel.app/login)**
-    *A full-stack music application with user authentication, playlist management, and audio streaming.*
-    *   **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS.
-    *   **Live Demo:** [musify-vert.vercel.app](https://musify-vert.vercel.app/login)
-    *   **Frontend Repo:** [Musify-App-Frontend](https://github.com/FarrukhGul/Musify-App-Frontend)
-    *   **Backend Repo:** [Musify-App-Backend](https://github.com/FarrukhGul/Musify-App-Backend)
-
-2.  **CareerLens - AI Career Assistant**
-    *An AI-powered tool that analyzes a user's resume against a job description to identify skill gaps and provide actionable feedback.*
-    *   **Tech:** React.js, Node.js, Express, MongoDB, AI Integration (Google Gemini API).
-    *   **Frontend Repo:** [CareerLens-Frontend](https://github.com/FarrukhGul/CareerLens-Frontend)
-    *   **Backend Repo:** [CareerLens-Backend](https://github.com/FarrukhGul/CareerLens-Backend)
-
-3.  **[Traffic Accident Severity Prediction](https://github.com/FarrukhGul/Traffic-Accident-Severity-Prediction)**
-    *A machine learning project to predict the severity of traffic accidents based on various parameters.*
-    *   **Tech:** Python, Machine Learning (Scikit-learn, Pandas), React.js, Tailwindcss FAST-API .
-    *   **Repo:** [Traffic-Accident-Severity-Prediction](https://github.com/FarrukhGul/Traffic-Accident-Severity-Prediction)
-
-4.  **[Full Stack Next.js Todo App](https://github.com/FarrukhGul/NextJS-Todo-App)**
-    *A modern and efficient task management application built with Next.js, showcasing server-side rendering and API routes.*
-    *   **Tech:** Next.js, React, MongoDB, Node.js ,Express.js, TailwindCss.
-    *   **Repo:** [NextJS-Todo-App](https://github.com/FarrukhGul/NextJS-Todo-App)
-
-<!-- Sparrow extension here once it's pushed. -->
-
-
----
-<!-- This section shows you're active and engaged -->
-###  Connect with Me
-
-I'm always open to discussing new opportunities, collaborations, or just tech in general. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farrukh-gul-695126336)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybercodeforge)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17DzaJjyEP)
+<p align="center">
+  Open to junior full-stack and MERN developer roles.<br />
+  <a href="https://www.linkedin.com/in/muhammad-farrukh-gul-695126336">LinkedIn</a> · <a href="mailto:mfg.pentestpilot@gmail.com">Email</a>
+</p>
