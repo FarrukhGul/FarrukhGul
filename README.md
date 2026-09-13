@@ -174,10 +174,7 @@
 
 <br/>
 
-### 🚀 Let's Build Something Great
-<p>Open to opportunities, collaborations and interesting software projects.</p>
-
-<a href="mailto:farrukhgul.dev@gmail.com"><img src="https://img.shields.io/badge/Let's%20Work%20Together-6AD3F5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Let's Work Together"/></a>
+<h1>Muhammad Farrukh Gul</h1>
 
 </div>
 
