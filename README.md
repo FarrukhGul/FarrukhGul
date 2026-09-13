@@ -64,10 +64,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/FarrukhGul"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarrukhGul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6AD3F5&icon_color=6AD3F5&text_color=ffffff&cache_seconds=1800" alt="Farrukh GitHub Stats"/></a>
+<a href="https://github.com/FarrukhGul"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarrukhGul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6AD3F5&icon_color=6AD3F5&text_color=ffffff" alt="Farrukh GitHub Stats"/></a>
 <a href="https://github.com/FarrukhGul"><img width="49%" src="https://streak-stats.demolab.com?user=FarrukhGul&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5" alt="Farrukh Streak Stats"/></a>
 <br/><br/>
-<a href="https://github.com/FarrukhGul"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhGul&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6AD3F5&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Farrukh Top Languages"/></a>
+<a href="https://github.com/FarrukhGul"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhGul&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6AD3F5&text_color=ffffff&langs_count=8" alt="Farrukh Top Languages"/></a>
 </div>
 
 ---
