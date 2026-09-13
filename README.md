@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=700&lines=Hey+There!+I'm+Farrukh+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js;React+Native+%2B+Expo+Developer+%F0%9F%93%B1;Building+Real+World+Applications+%F0%9F%92%BB;AI-Integrated+Applications+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=FarrukhGul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/FarrukhGul?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
-</p>
+<p><img src="https://komarev.com/ghpvc/?username=FarrukhGul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/FarrukhGul?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/></p>
 
 </div>
 
@@ -80,46 +77,16 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>🍲 FoodBridge AI</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="FoodBridge AI"/>
-<p><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p>
-<p>A <strong>food donation and redistribution platform</strong> connecting donors with receivers through location-based discovery, real-time communication and AI assistance.</p>
-</td>
-<td width="50%" align="center">
-<h3>🌐 Gateway Canada</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Gateway Canada"/>
-<p><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p>
-<p>Production <strong>visa-services portal</strong> for an immigration consultancy serving six countries, with applications, document management and secure admin workflows.</p>
-</td>
+<td width="50%" align="center"><h3>🍲 FoodBridge AI</h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="FoodBridge AI"/><p><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p><p>A <strong>food donation and redistribution platform</strong> connecting donors with receivers through location-based discovery, real-time communication and AI assistance.</p></td>
+<td width="50%" align="center"><h3>🌐 Gateway Canada</h3><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Gateway Canada"/><p><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p><p>Production <strong>visa-services portal</strong> for an immigration consultancy serving six countries, with applications, document management and secure admin workflows.</p></td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<h3>🎵 Musify</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Musify"/>
-<p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p>
-<p>Full-stack <strong>music streaming platform</strong> with listener and artist dashboards, audio streaming, playlists, albums and a persistent player.</p>
-</td>
-<td width="50%" align="center">
-<h3>🧠 DryRun</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="DryRun"/>
-<p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/CodeMirror-1F1F1F?style=for-the-badge"/></p>
-<p>Browser-based <strong>DSA code visualizer</strong> that executes code step-by-step and visualizes variables, execution flow and active lines.</p>
-</td>
+<td width="50%" align="center"><h3>🎵 Musify</h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Musify"/><p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p><p>Full-stack <strong>music streaming platform</strong> with listener and artist dashboards, audio streaming, playlists, albums and a persistent player.</p></td>
+<td width="50%" align="center"><h3>🧠 DryRun</h3><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="DryRun"/><p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/CodeMirror-1F1F1F?style=for-the-badge"/></p><p>Browser-based <strong>DSA code visualizer</strong> that executes code step-by-step and visualizes variables, execution flow and active lines.</p></td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<h3>🤖 CareerLens</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="CareerLens"/>
-<p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/></p>
-<p>AI-powered <strong>career assistant</strong> that analyzes resumes against job descriptions and identifies skill gaps.</p>
-</td>
-<td width="50%" align="center">
-<h3>🚗 Traffic Accident Severity Prediction</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Traffic Accident Prediction"/>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></p>
-<p>Machine learning application that predicts <strong>traffic accident severity</strong> using road, weather and time-related parameters.</p>
-</td>
+<td width="50%" align="center"><h3>🤖 CareerLens</h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="CareerLens"/><p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/></p><p>AI-powered <strong>career assistant</strong> that analyzes resumes against job descriptions and identifies skill gaps.</p></td>
+<td width="50%" align="center"><h3>🚗 Traffic Accident Severity Prediction</h3><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Traffic Accident Prediction"/><p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></p><p>Machine learning application that predicts <strong>traffic accident severity</strong> using road, weather and time-related parameters.</p></td>
 </tr>
 </table>
 </div>
@@ -167,9 +134,7 @@
 ## 📚 Coursework
 
 <div align="center">
-
 `Data Structures & Algorithms` `Database Systems` `Operating Systems` `Computer Networks` `Software Engineering` `Artificial Intelligence` `Machine Learning` `Web Engineering`
-
 </div>
 
 ---
@@ -177,9 +142,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrukhGul&bg_color=0D1117&color=6AD3F5&line=6AD3F5&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
 </div>
 
 ---
@@ -187,12 +150,10 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-
-<a href="mailto:farrukhgul.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-farrukh-gul-695126336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/FarrukhGul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://farrukh-portfolio-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
+<a href="mailto:farrukhgul.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/muhammad-farrukh-gul-695126336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/FarrukhGul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://farrukh-portfolio-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 ---
@@ -214,9 +175,9 @@
 <p>Watch my GitHub contributions come to life! 🐍</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
@@ -224,7 +185,5 @@
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
 </div>
