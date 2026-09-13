@@ -139,10 +139,18 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 GitHub Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrukhGul&bg_color=0D1117&color=6AD3F5&line=6AD3F5&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+<p>My GitHub contribution activity, generated automatically from my contribution history.</p>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 </div>
 
 ---
@@ -163,22 +171,6 @@
 <div align="center">
 
 > **“First, solve the problem. Then, write the code.”**
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<p>Watch my GitHub contributions come to life! 🐍</p>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 </div>
 
