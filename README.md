@@ -23,9 +23,9 @@
 - 📱 Building cross-platform mobile applications with **React Native and Expo**
 - 🤖 Interested in building practical applications with **AI integrations**
 - ⚡ Experienced in **real-time applications** using Socket.IO and SSE
-- 🔐 Implement authentication using **JWT, HTTP-only cookies and role-based access**
+- 🔐 Implement authentication with **JWT, HTTP-only cookies and role-based access**
 - ☁️ Comfortable taking applications from **development to deployment**
-- 🎓 BS Computer Science from **Minhaj University Lahore**
+- 🎓 BS Computer Science
 - 📊 CGPA: **3.44 / 4.00**
 - 📍 Based in **Lahore, Pakistan**
 - 📧 Reach me at **farrukhgul.dev@gmail.com**
@@ -281,6 +281,7 @@
     </td>
 
   </tr>
+
 </table>
 
 </div>
@@ -354,7 +355,7 @@
 
 | Degree | Institution | Period | CGPA |
 |--------|------------|--------|------|
-| 🎓 BS Computer Science | Minhaj University Lahore | 2022 – 2026 | **3.44/4.00** |
+| 🎓 BS Computer Science | FAST Lahore | 2022 – 2026 | **3.44/4.00** |
 
 <br/>
 
@@ -409,7 +410,21 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/FarrukhGul/FarrukhGul/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 <br/>
 
