@@ -25,7 +25,7 @@
 - ⚡ Experienced in **real-time applications** using Socket.IO and SSE
 - 🔐 Implement authentication using **JWT, HTTP-only cookies and role-based access**
 - ☁️ Comfortable taking applications from **development to deployment**
-- 🎓 BS Computer Science from **FAST Lahore**
+- 🎓 BS Computer Science from **Minhaj University Lahore**
 - 📊 CGPA: **3.44 / 4.00**
 - 📍 Based in **Lahore, Pakistan**
 - 📧 Reach me at **farrukhgul.dev@gmail.com**
