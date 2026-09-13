@@ -166,11 +166,9 @@
 
 ---
 
-## 💬 Quote
-
 <div align="center">
 
-> **“First, solve the problem. Then, write the code.”**
+> **“Turning logic into systems, and ideas into software.”**
 
 <br/>
 
