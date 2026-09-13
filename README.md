@@ -172,10 +172,17 @@
 
 > **“First, solve the problem. Then, write the code.”**
 
+<br/>
+
+### 🚀 Let's Build Something Great
+<p>Open to opportunities, collaborations and interesting software projects.</p>
+
+<a href="mailto:farrukhgul.dev@gmail.com"><img src="https://img.shields.io/badge/Let's%20Work%20Together-6AD3F5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Let's Work Together"/></a>
+
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
