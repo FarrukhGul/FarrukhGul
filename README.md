@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Full-Stack MERN Developer and Computer Science graduate from **FAST Lahore**
+- 🚀 Full-Stack MERN Developer and Computer Science graduate from **Minhaj University Lahore**
 - 💻 Built and shipped **7 web and mobile applications**
 - 🌐 Hands-on with **React, Next.js, Node.js, Express and MongoDB**
 - 📱 Building cross-platform mobile applications with **React Native and Expo**
@@ -125,7 +125,7 @@
 
 | Degree | University | Period | CGPA |
 |--------|------------|--------|------|
-| 🎓 BS Computer Science | **FAST Lahore** | 2022 – 2026 | **3.44 / 4.00** |
+| 🎓 BS Computer Science | **Minhaj University Lahore** | 2022 – 2026 | **3.44 / 4.00** |
 
 </div>
 
