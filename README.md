@@ -354,7 +354,7 @@
 
 | Degree | Institution | Period | CGPA |
 |--------|------------|--------|------|
-| 🎓 BS Computer Science | FAST Lahore | 2022 – 2026 | **3.44/4.00** |
+| 🎓 BS Computer Science | Minhaj University Lahore | 2022 – 2026 | **3.44/4.00** |
 
 <br/>
 
